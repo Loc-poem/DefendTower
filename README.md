@@ -1,2 +1,2 @@
 # DefendTower
-a game coded from Java , main content is about defend your tower from boss
+a game which developed by Java , main content is about defend your tower from boss
